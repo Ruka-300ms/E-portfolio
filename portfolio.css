@@ -311,8 +311,8 @@ p{
     height: auto;
     border-radius: 100%;
     position: fixed;
-    left: 1400px;
-    top: 650px;
+    bottom: 30px;
+    right: 30px;
     box-shadow: #a7cbff;
     border: #a7cbff;
 }
